@@ -1,0 +1,23 @@
+_repo: Betty-Gordon-in-Washington--Or-Strange-Adventures-in-a-Great-City_6853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Washington (D.C.) -- Juvenile fiction'
+- GITenberg
+title: Betty Gordon in Washington; Or, Strange Adventures in a Great City
+url: http://www.gutenberg.org/ebooks/6853
